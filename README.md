@@ -22,3 +22,6 @@
 #for more information you can go into the Waikato website: https://www.cs.waikato.ac.nz/ml/weka/arff.html 
 ## subheader
 #Watch tutorial on Youtube by Data Professor 
+
+##add  a new section for local deveoplment 
+1. open index.html in your browser
